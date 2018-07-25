@@ -3,6 +3,15 @@ C# .NET JAVASCRIPT TDD BDD UNIT ALL IN ONE
 
 TOOLS USED 
 
+dotnet-framework
+jasmine-tests
+selenium
+gherkin
+bdd
+tdd
+nunit
+cucumber
+
 # Visual Studio 2015
     Extension and Updates
     Specflow for Visual Studio 2015
