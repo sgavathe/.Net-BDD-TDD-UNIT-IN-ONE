@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="BDD-TDD-IN-ONE.Login Action.#()::TestAssembly:BDD-TDD-IN-ONE/Feature:Login+Action/Scenario:Successful+Login+with+Valid+Credentials" /><Add Test="BDD-TDD-IN-ONE.Login Action.#()::TestAssembly:BDD-TDD-IN-ONE/Feature:Login+Action/Scenario:Successful+LogOut" /></Playlist>
